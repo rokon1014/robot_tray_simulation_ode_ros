@@ -1,0 +1,8 @@
+prefix=/home/spacemaster09/ode_mod/install
+
+Name: main
+Description: Description of main
+Version: 0.0.0
+Cflags: -I/home/spacemaster09/ode_mod/install/include
+Libs: -L/home/spacemaster09/ode_mod/install/lib -lmain
+Requires: roscpp

@@ -1,0 +1,8 @@
+prefix=/home/spacemaster09/ode_mod/install
+
+Name: app
+Description: Description of app
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/spacemaster09/ode_mod/install/lib -lapp
+Requires: roscpp
